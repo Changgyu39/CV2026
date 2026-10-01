@@ -1,15 +1,9 @@
 # CV2026
-### Homework1 pose
 
-[homework1]
-https://youtube.com/shorts/8z_BGwMjxF8?feature=share
+### Homework1
 
-### Homework2 skeleton
-
-[homework2]
+[Selfi]
 https://youtube.com/shorts/HYuK8ZR6mog?feature=share
 
-### Homework3 yolo
-
-[homework3]
+[yolo]
 https://youtube.com/shorts/6u61dPTPN44?feature=share
